@@ -12,7 +12,7 @@ The user is prompted to choose which of the following they desire in the final r
 ---
 
 ## 
- This program contains 4 arrays corrosponding to user customization 
+ This program contains 4 arrays corrosponding to each criteria
 ```javascript
 var lowArr=  "abcdefghijklmnopqrstuvwxyz".split(''); 
 var uppArr= "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split(''); 
