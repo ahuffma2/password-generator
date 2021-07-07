@@ -55,3 +55,6 @@ I did not show the prompts/confirms or the methods that determine that the lengt
 
 ## Author
 [Austin Huffman](https://www.linkedin.com/in/austinhuffman/)
+
+## License
+MIT
